@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 """
-Instrument `boto3sqs`_ to trace SQS applications.
+Instrument boto3sqs_ to trace SQS applications.
 
 .. _boto3sqs: https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sqs.html
 
